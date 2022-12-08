@@ -14,8 +14,6 @@ correct_counter = 0
 all_guesses = []
 
 
-# In[39]:
-
 
 def clear_widgets(frame):
     'this function destroys all the widgets on the specified frame'
